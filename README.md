@@ -13,13 +13,3 @@ To run:
    It is recommended you first choose the "controls and rules" option of the menu.
 4. When a connect4 game terminates, you will be prompted with a selection to start a new game or not. Follow the instructions to either declare you do 
    or do not wish to play again. If you do not wish to play again, select No, the program will end its execution.
-
-The directory structure:
-IndividualProject_2021_Zayad.Khan/ 
-├─ .vs/
-├─ Proof of Concept Programs/
-│  ├─ .vs
-│  ├─ Game Playing with Monte-Carlo Tree Search
-├─ .gitignore
-├─ Project-Final-Report.pdf
-├─ README.md
