@@ -1,5 +1,5 @@
 Required***:
-Python -> To donwload use https://www.python.org/downloads/
+Python -> To download use https://www.python.org/downloads/
 
 Required Python Libraries:
 --Numpy -> To download type pip install numpy on the command line if you have pip installed.
